@@ -1,0 +1,6 @@
+{
+  "name": "都市綠洲 AI 療癒行程規劃器",
+  "description": "放慢步調，糖廠剛好。結合「都市綠洲 Urban Oasis Film Festival」企劃構想與帝國製糖廠臺中營業所的個人化慢活療癒行程規劃器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
